@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade 3</string>
+    <string name="comedia">Comedia</string>
+    <string name="drama">Drama</string>
+    <string name="horror">\tTerror</string>
+    <string name="lancamento">Lanzamiento</string>
+    <string name="detalhes">Detalles</string>
+    <string name="minha_lista">Mi Lista</string>
+    <string name="assistir">Ver</string>
+    <string name="minha_lista_menu">Mi Lista</string>
+    <string name="filmes">Películas</string>
+    <string name="series">Series</string>
+</resources>

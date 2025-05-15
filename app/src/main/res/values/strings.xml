@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Atividade 3</string>
+    <string name="comedia">Comédia</string>
+    <string name="drama">Drama</string>
+    <string name="horror">Horror</string>
+    <string name="lancamento">Lançamento</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista_menu">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="series">Séries</string>
 </resources>
